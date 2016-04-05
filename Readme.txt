@@ -1,5 +1,5 @@
-git config --global user.name "YOUR NAME"
-git config --global user.email "YOUR EMAIL ADDRESS"
+git config --global user.name "saurav"
+git config --global user.email "sauravkumar@virtualemployee.com"
 
 
 git clone  https://github.com/virtualskillupgradation/demoApp.git
