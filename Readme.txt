@@ -18,3 +18,8 @@ push an existing repository from the command line
 
 git remote add origin https://github.com/virtualskillupgradation/demoApp.git
 git push -u origin master
+
+inside a git folder 
+
+/*--- added by Pratishtha ---*/
+git pull 
