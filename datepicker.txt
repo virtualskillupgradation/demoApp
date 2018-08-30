@@ -1,0 +1,29 @@
+https://cdnjs.cloudflare.com/ajax/libs/bootstrap-datepicker/1.6.0/js/bootstrap-datepicker.min.js
+https://magneticnorth2.eecsoftware.com/css/bootstrap-datepicker.min.css
+
+<html>
+  <head>
+    <title>Magenitic North Travel Booking Booking</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no">
+    <meta name="csrf-token" content="744b9772a7e84493c1cb083f70f27fc1b17a5bbcb951b8bac71ee337479c9442">
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+    <link href="css/44/main.css" rel="stylesheet">
+	<link href="css/bootstrap-datepicker.min.css" rel="stylesheet">
+	<link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet">
+    <script src="https://code.jquery.com/jquery-1.11.3.min.js" type="text/javascript"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js" type="text/javascript"></script>
+	<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-datepicker/1.6.0/js/bootstrap-datepicker.min.js"></script>
+  <script src="//ajax.aspnetcdn.com/ajax/jquery.validate/1.13.0/jquery.validate.min.js"></script>
+	<script type="text/javascript">
+	
+	setTimeout(function(){ 
+	
+		$('.datepicker').datepicker({
+			autoclose: true,
+			format: 'dd/mm/yyyy'	
+		});
+	
+	}, 3000);
+	
+	
+	</script>
